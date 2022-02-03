@@ -1,0 +1,39 @@
+{
+	"students": [
+		{
+			"id": 1,
+			"last_name": "Patterer",
+			"first_name": "Moritz",
+			"class": "8M"
+		},
+		{
+			"id": 2,
+			"last_name": "Schreitter",
+			"first_name": "Sebastian",
+			"class": "8M"
+		}
+	],
+	"days": [
+		{
+			"week": "05",
+			"week_day": "Thursday",
+			"date": "2022-02-02"
+		}
+	],
+	"presences": [
+		{
+			"student_id": 1,
+			"date": "2022-02-02",
+			"status": "present",
+			"start_time": "15:00",
+			"end_time": "16:00"
+		},
+		{
+			"student_id": 2,
+			"date": "2022-02-02",
+			"status": "not present",
+			"start_time": "",
+			"end_time": ""
+		}
+	]
+}
